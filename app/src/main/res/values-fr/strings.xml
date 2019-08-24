@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppProductionAssignement1</string>
+    <string name="title_dashboard" translatable="false">Tableau de bord</string>
+    <string name="title_home" translatable="false">Page d\'accueil</string>
+    <string name="food">Aliments</string>
+</resources>
